@@ -21,7 +21,7 @@ A fast, private passport photo tool. Upload any photo, pick a country's size, fr
 index.html     The whole app (HTML, CSS, JS in one file)
 vercel.json    Vercel config: clean URLs, security headers, caching
 package.json   Optional, provides `npm run dev`
-LICENSE        MIT (replace YOUR NAME)
+LICENSE        VIDHAAN MATHUR
 ```
 
 ## Run locally
@@ -73,4 +73,4 @@ Edit the `PRESETS` array at the top of the script in `index.html`. Sizes are in 
 
 ## License
 
-MIT
+VIDHAAN MATHUR
