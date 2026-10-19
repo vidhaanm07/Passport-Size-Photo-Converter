@@ -1,0 +1,12 @@
+{
+  "name": "passport-photo-maker",
+  "version": "1.0.0",
+  "description": "Client-side passport photo maker. Upload any image, crop to any country's size, export print-ready files.",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": ["passport", "photo", "id-photo", "canvas", "static-site"],
+  "license": "MIT"
+}
